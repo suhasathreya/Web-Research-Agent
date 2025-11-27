@@ -35,12 +35,15 @@ This app:
 ### 1️⃣ Install dependencies
 ```bash
 pip install streamlit python-dotenv requests
+```
 
 ### 2️⃣ Create a .env file
 ```bash
 OPENROUTER_API_KEY=your_key_here
 PARALLEL_API_KEY=your_key_here
+```
 
 ### 3️⃣ Start the app
 ```bash
 streamlit run app.py
+```
