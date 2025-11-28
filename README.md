@@ -1,6 +1,7 @@
 # 🔎 Web Research Agent
 
 A minimal web-research assistant powered by **Parallel Web Systems Search API** and **OpenRouter LLM** (Llama-3.3-70B-Instruct:free), wrapped in a clean **Streamlit UI**.
+https://web-research-agent-ge6d8cshoqeemmszjztwj4.streamlit.app/
 
 This app:
 - Performs accurate web search using Parallel
